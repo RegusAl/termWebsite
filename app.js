@@ -67,7 +67,7 @@ var Typer={
 			key.preventDefault()
 		};  
 		
-		if(key.keyCode != 122){ // otherway prevent keys default behavior
+		if(key.keyCode != 122){ 
 			key.returnValue = false;
 		}
 	},
@@ -79,7 +79,7 @@ var Typer={
 			$("#terminal").html($("#terminal").html().substring(0,cont.length-1)); 
 		
 		else
-			this.write("|"); // else write it
+			this.write("|"); 
 	}
 }
 
@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=2;
-Typer.file="test.txt"; // add your own name here
+Typer.file="test.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
