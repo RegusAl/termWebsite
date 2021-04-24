@@ -2,39 +2,37 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: $black;
 }
 
 html {
     font-size: 62.5%; //to use 1rem=10px
 }
 
-body {
-    background-color: #000;
-}
-
 //terminal 
 #terminal {
     font-family: courier, monospace;
-    color: #fff;
+    color: $white;
     width: 75rem;
     margin: auto 10rem auto 0rem;
 }
 
+//text decoration
 a {
-    color: #0bc;
+    color: $blue;
     text-decoration: none;
 }
 
 #a {
-	color: #0f0;
+	color: $green;
 }
 
 #c {
-	color: #0bc;
+	color: $blue;
 }
 
 #b {
-	color: #ff0096;
+	color: $red;
 }
 
 #k {
@@ -42,11 +40,11 @@ a {
 }
 
 #op{
-    	color: #888888
+    	color: $grey
 }
 
 @keyframes change {
-    	0%  { color:  #0f0; }
-    	50% { color:  #0f0; }
-    	99% { color: black; }
+    	0%  { color:  $green; }
+    	50% { color:  $green; }
+    	99% { color: $black; }
 }
