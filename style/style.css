@@ -3,14 +3,11 @@
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  background-color: #000;
 }
 
 html {
   font-size: 62.5%;
-}
-
-body {
-  background-color: #000;
 }
 
 #terminal {
@@ -25,19 +22,19 @@ a {
   text-decoration: none;
 }
 
-#a {
+#green {
   color: #0f0;
 }
 
-#c {
+#blue {
   color: #0bc;
 }
 
-#b {
+#pink {
   color: #ff0096;
 }
 
-#k {
+#animation {
   -webkit-animation: change 1s;
           animation: change 1s;
 }
@@ -54,7 +51,7 @@ a {
     color: #0f0;
   }
   99% {
-    color: black;
+    color: #000;
   }
 }
 
@@ -66,33 +63,7 @@ a {
     color: #0f0;
   }
   99% {
-    color: black;
+    color: #000;
   }
-}
-
-a {
-  color: #0bc;
-  text-decoration: none;
-}
-
-#a {
-  color: #0f0;
-}
-
-#c {
-  color: #0bc;
-}
-
-#b {
-  color: #ff0096;
-}
-
-#k {
-  -webkit-animation: change 1s;
-          animation: change 1s;
-}
-
-#op {
-  color: #888888;
 }
 /*# sourceMappingURL=style.css.map */

@@ -9,7 +9,7 @@ html {
     font-size: 62.5%; //to use 1rem=10px
 }
 
-//terminal 
+//Terminal 
 #terminal {
     font-family: courier, monospace;
     color: $white;
@@ -17,25 +17,25 @@ html {
     margin: auto 10rem auto 0rem;
 }
 
-//text decoration
+//Text Decoration
 a {
     color: $blue;
     text-decoration: none;
 }
 
-#a {
+#green {
 	color: $green;
 }
 
-#c {
+#blue {
 	color: $blue;
 }
 
-#b {
-	color: $red;
+#pink {
+	color: $pink;
 }
 
-#k {
+#animation {
     	animation: change 1s;
 }
 
