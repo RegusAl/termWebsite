@@ -4,7 +4,7 @@
 <span id="green">Regus@Al</span>:<span id="pink">~</span><span id="blue">$</span> README.md <!-- laglaglaglaglaglag --> <span id="c">home</span>
 <span id="green">Regus@Al</span>:<span id="pink">~</span><span id="blue">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->README.md
 <br/>
-
+<span id="red"> You requested to view a file which requieres root privilages. </span>
 </h1>
 
 
