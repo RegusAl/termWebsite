@@ -2,8 +2,11 @@
 <span id="green">Regus@Al</span>:<span id="pink">~</span><span id="blue">$</span> cd RegusAl <!-- laglaglaglaglaglag -->
 <span id="green">Regus@Al</span>:<span id="pink">~</span><span id="blue">$</span> ls <!-- laglaglaglaglaglag -->
 <span id="green">Regus@Al</span>:<span id="pink">~</span><span id="blue">$</span> README.md <!-- laglaglaglaglaglag --> <span id="blue">home</span>
-<span id="green">Regus@Al</span>:<span id="pink">~</span><span id="blue">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->README.md
+<span id="green">Regus@Al</span>:<span id="pink">~</span><span id="blue">$</span> cat <!-- laglaglaglaglaglaglaglaglag --> README.md
 <span id="red"> You requested to view a file which requieres root privilages. </span>
+<span id="green">Regus@Al</span>:<span id="pink">~</span><span id="blue">$</span> sudo <!-- laglaglaglaglaglaglaglaglag --> su -
+[sudo] password for Regus: <!--laglaglag--> <span id="blue"> ****<!-- lag -->*****<!-- laglag -->*** </span>
+<span id="red">root@Al</span>:<span id="pink">~</span><span id="blue">#</span> cat <!-- laglag --> README.md
 </h1>
 
 
